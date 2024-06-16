@@ -20,7 +20,7 @@ section {
 
 .game--title {
     font-size: 100px;
-    color: #d7a62f;
+    color: palevioletred;
     margin: 10px auto;
 }
 
@@ -35,16 +35,16 @@ section {
 
 .game--status {
     font-size: 50px;
-    color: #d7a62f;
+    color: palevioletred;
     margin: 20px auto;
 }
 
 .game--restart {
-    background-color: #f7e4ac;
+    background-color: black;
     width: 200px;
     height: 50px;
     font-size: 25px;
     color: #5586e2;
-    box-shadow: 2px 2px 2px 2px #d86c23;
-    border: 2px solid #d86c23;
+    box-shadow: 2px 2px 2px 2px #11213a;
+    border: 2px solid #11213a;
 }
